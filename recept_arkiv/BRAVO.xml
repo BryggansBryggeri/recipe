@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPE>
  <NAME>BRAVO</NAME>
  <VERSION>1</VERSION>
@@ -19,7 +19,7 @@
  <USE>Aroma</USE>
  <TIME>30.0000000</TIME>
  <NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.
-Aroma: Adds interesting citrus and tropical fruit character to the beer.  
+Aroma: Adds interesting citrus and tropical fruit character to the beer.
 Substitutes: Unknown</NOTES>
  <TYPE>Both</TYPE>
  <FORM>Pellet</FORM>
@@ -59,8 +59,8 @@ Storage: Good (25% AA after 6 months at 20 C)
  <AMOUNT>0.0799999</AMOUNT>
  <USE>Aroma</USE>
  <TIME>30.0000000</TIME>
- <NOTES>Triploid variety bred from &#34;Smoothcone&#34; released in 2000.  Oil profile said to taste like &#34;fresh crushed gooseberries&#34; similar to Sauvignon Blanc, giving it its name.  Very fruity, citrusy - use in moderation.  
-Used for: Pale ale, Super Premiums.  
+ <NOTES>Triploid variety bred from &#34;Smoothcone&#34; released in 2000.  Oil profile said to taste like &#34;fresh crushed gooseberries&#34; similar to Sauvignon Blanc, giving it its name.  Very fruity, citrusy - use in moderation.
+Used for: Pale ale, Super Premiums.
 Substitutes: None</NOTES>
  <TYPE>Bittering</TYPE>
  <FORM>Pellet</FORM>
@@ -79,7 +79,7 @@ Substitutes: None</NOTES>
  <USE>Dry Hop</USE>
  <TIME>2880.0000000</TIME>
  <NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.
-Aroma: Adds interesting citrus and tropical fruit character to the beer.  
+Aroma: Adds interesting citrus and tropical fruit character to the beer.
 Substitutes: Unknown</NOTES>
  <TYPE>Both</TYPE>
  <FORM>Pellet</FORM>
@@ -98,7 +98,7 @@ Substitutes: Unknown</NOTES>
  <USE>Dry Hop</USE>
  <TIME>2880.0000000</TIME>
  <NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.
-Aroma: Adds interesting citrus and tropical fruit character to the beer.  
+Aroma: Adds interesting citrus and tropical fruit character to the beer.
 Substitutes: Unknown</NOTES>
  <TYPE>Both</TYPE>
  <FORM>Pellet</FORM>
@@ -160,8 +160,8 @@ Storage: Good (25% AA after 6 months at 20 C)
  <AMOUNT>0.0600000</AMOUNT>
  <USE>Dry Hop</USE>
  <TIME>2880.0000000</TIME>
- <NOTES>Triploid variety bred from &#34;Smoothcone&#34; released in 2000.  Oil profile said to taste like &#34;fresh crushed gooseberries&#34; similar to Sauvignon Blanc, giving it its name.  Very fruity, citrusy - use in moderation.  
-Used for: Pale ale, Super Premiums.  
+ <NOTES>Triploid variety bred from &#34;Smoothcone&#34; released in 2000.  Oil profile said to taste like &#34;fresh crushed gooseberries&#34; similar to Sauvignon Blanc, giving it its name.  Very fruity, citrusy - use in moderation.
+Used for: Pale ale, Super Premiums.
 Substitutes: None</NOTES>
  <TYPE>Bittering</TYPE>
  <FORM>Pellet</FORM>
@@ -179,8 +179,8 @@ Substitutes: None</NOTES>
  <AMOUNT>0.0600000</AMOUNT>
  <USE>Dry Hop</USE>
  <TIME>2880.0000000</TIME>
- <NOTES>Triploid variety bred from &#34;Smoothcone&#34; released in 2000.  Oil profile said to taste like &#34;fresh crushed gooseberries&#34; similar to Sauvignon Blanc, giving it its name.  Very fruity, citrusy - use in moderation.  
-Used for: Pale ale, Super Premiums.  
+ <NOTES>Triploid variety bred from &#34;Smoothcone&#34; released in 2000.  Oil profile said to taste like &#34;fresh crushed gooseberries&#34; similar to Sauvignon Blanc, giving it its name.  Very fruity, citrusy - use in moderation.
+Used for: Pale ale, Super Premiums.
 Substitutes: None</NOTES>
  <TYPE>Bittering</TYPE>
  <FORM>Pellet</FORM>
@@ -274,7 +274,7 @@ Protein rest recommended when mashing</NOTES>
 </FERMENTABLE>
 </FERMENTABLES>
 
- 
+
  <YEASTS>
 <YEAST>
  <NAME>SafAle English Ale</NAME>
@@ -302,7 +302,7 @@ Protein rest recommended when mashing</NOTES>
 </YEAST>
 </YEASTS>
 
- 
+
  <STYLE>
  <NAME>American IPA</NAME>
  <VERSION>1</VERSION>
@@ -402,8 +402,11 @@ Protein rest recommended when mashing</NOTES>
  <DISPLAY_INFUSE_AMT>26.08 l</DISPLAY_INFUSE_AMT>
 </MASH_STEP>
 </MASH_STEPS>
-
 </MASH>
+
+<MISCS/>
+
+<WATERS/>
 
  <NOTES>Kolla upp vatten
 Torrhumla dag 1
@@ -447,4 +450,3 @@ Torrhumla efter 1 vecka</NOTES>
  <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
  <DISPLAY_AGE_TEMP>18.3 C</DISPLAY_AGE_TEMP>
 </RECIPE>
-</RECIPES>

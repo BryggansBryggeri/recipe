@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPE>
  <NAME>Midvinterblot</NAME>
  <VERSION>1</VERSION>
@@ -214,7 +214,7 @@ Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for
 </YEAST>
 </YEASTS>
 
- 
+
  <STYLE>
  <NAME>Winter Seasonal Beer</NAME>
  <VERSION>1</VERSION>
@@ -314,8 +314,9 @@ Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for
  <DISPLAY_INFUSE_AMT>14.16 qt</DISPLAY_INFUSE_AMT>
 </MASH_STEP>
 </MASH_STEPS>
-
 </MASH>
+
+<WATERS/>
 
  <NOTES></NOTES>
  <TASTE_NOTES></TASTE_NOTES>
@@ -357,4 +358,3 @@ Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for
  <DISPLAY_TERTIARY_TEMP>65.0 F</DISPLAY_TERTIARY_TEMP>
  <DISPLAY_AGE_TEMP>65.0 F</DISPLAY_AGE_TEMP>
 </RECIPE>
-</RECIPES>

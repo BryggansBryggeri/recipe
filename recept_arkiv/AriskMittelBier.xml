@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPE>
  <NAME>Arisk Mittel Bier</NAME>
  <VERSION>1</VERSION>
@@ -218,7 +218,7 @@ Imparts a golden to orange color to the beer.</NOTES>
 </FERMENTABLE>
 </FERMENTABLES>
 
- 
+
  <YEASTS>
 <YEAST>
  <NAME>Nottingham</NAME>
@@ -246,7 +246,7 @@ Imparts a golden to orange color to the beer.</NOTES>
 </YEAST>
 </YEASTS>
 
- 
+
  <STYLE>
  <NAME>Blonde Ale</NAME>
  <VERSION>1</VERSION>
@@ -346,8 +346,11 @@ Imparts a golden to orange color to the beer.</NOTES>
  <DISPLAY_INFUSE_AMT>19.00 l</DISPLAY_INFUSE_AMT>
 </MASH_STEP>
 </MASH_STEPS>
-
 </MASH>
+
+<MISCS/>
+
+<WATERS/>
 
  <NOTES></NOTES>
  <TASTE_NOTES></TASTE_NOTES>
@@ -389,4 +392,3 @@ Imparts a golden to orange color to the beer.</NOTES>
  <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
  <DISPLAY_AGE_TEMP>18.3 C</DISPLAY_AGE_TEMP>
 </RECIPE>
-</RECIPES>

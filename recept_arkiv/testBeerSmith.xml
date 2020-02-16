@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <RECIPE>
  <NAME>Aussie Ale</NAME>
  <VERSION>1</VERSION>
@@ -219,7 +219,7 @@ Can contribute a cider-like flavor to the beer if not cold-fermented or used in 
 </FERMENTABLE>
 </FERMENTABLES>
 
- 
+
  <YEASTS>
 <YEAST>
  <NAME>American Ale</NAME>
@@ -247,7 +247,7 @@ Can contribute a cider-like flavor to the beer if not cold-fermented or used in 
 </YEAST>
 </YEASTS>
 
- 
+
  <STYLE>
  <NAME>Australian Ale</NAME>
  <VERSION>1</VERSION>
@@ -363,9 +363,11 @@ Can contribute a cider-like flavor to the beer if not cold-fermented or used in 
  <DISPLAY_INFUSE_AMT>8.12 qt</DISPLAY_INFUSE_AMT>
 </MASH_STEP>
 </MASH_STEPS>
-
 </MASH>
-
+<MISCS>
+</MISCS>
+<WATERS>
+</WATERS>
  <NOTES>FWH the first  hop addition.
 Allow last addition to sit for 5 minutes to release aroma.
 </NOTES>
@@ -408,4 +410,3 @@ Allow last addition to sit for 5 minutes to release aroma.
  <DISPLAY_TERTIARY_TEMP>65.0 F</DISPLAY_TERTIARY_TEMP>
  <DISPLAY_AGE_TEMP>65.0 F</DISPLAY_AGE_TEMP>
 </RECIPE>
-</RECIPES>
